@@ -1,7 +1,7 @@
 # Breast Cancer Classification
 
 ## Overview
-This project focuses on **breast cancer classification** using various **Machine Learning (ML) models**. The primary objective is to compare the performance of multiple algorithms to determine which one provides the **highest accuracy** in predicting whether a tumor is **malignant** or **benign**.
+This project focuses on **breast cancer classification** using various **Machine Learning (ML) models** under facaulty **Alice Nithya**. The primary objective is to compare the performance of multiple algorithms to determine which one provides the **highest accuracy** in predicting whether a tumor is **malignant** or **benign**.
 
 Breast cancer detection plays a crucial role in early diagnosis, which can significantly improve treatment outcomes. By evaluating and comparing multiple ML models, this project aims to identify the most effective approach for accurate classification.
 
